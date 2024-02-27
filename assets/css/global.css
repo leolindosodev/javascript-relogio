@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: "Kode Mono",'Segoe UI', monospace;
+    color: #fff;
+}
+a{
+    text-decoration: none;
+}

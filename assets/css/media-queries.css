@@ -1,0 +1,34 @@
+@media screen and (max-width: 800px ) {
+    .container{
+        width: 400px;
+    }
+    #container__title > h1{
+        font-size: 40px;
+    }
+    .container__relogio{
+        height: 200px;
+    }
+    span, .components{
+        font-size: 4rem;
+    }
+    .components{
+        padding: .5rem;
+    }
+}
+@media screen and (max-width: 400px){
+    .container{
+        width: 200px;
+    }
+    #container__title > h1{
+        font-size: 30px;
+    }
+    .container__relogio{
+        height: 100px;
+    }
+    span, .components{
+        font-size: 2rem;
+    }
+    .components{
+        padding: .2rem;
+    }
+}
