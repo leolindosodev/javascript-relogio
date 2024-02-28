@@ -11,7 +11,7 @@ body{
 }
 .container{
     width: 800px;
-    padding: 30px;
+    padding: 20px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -22,14 +22,14 @@ body{
 }
 #container__title > h1{
     font-weight: normal;
-    font-size: 60px;
+    font-size: 50px;
     text-transform: capitalize;
 }
 .container__relogio {
     border: 8px outset var(--border-clock);
     background-color: var(--background-clock);
     width: 100%;
-    height: 250px;
+    height: 200px;
     margin-top: 20px;
 }
 .container__date{
@@ -51,13 +51,13 @@ body, .container__relogio{
     align-items: center;
 }
 .components{
-    padding: 20px;
+    padding: 15px;
 }
 
 footer{
     text-align: center;
     font-weight: bold;
-    margin-top: 50px;
+    margin-top: 20px;
     padding: 20px;
     font-size: 20px;
 }
