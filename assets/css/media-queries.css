@@ -26,7 +26,8 @@
         height: 100px;
     }
     span, .components{
-        font-size: 2rem;
+        font-size: 1.5rem;
+        font-weight: bold;
     }
     .components{
         padding: .2rem;
